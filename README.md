@@ -24,10 +24,10 @@ Também foi criada uma pasta dentro de src, chamada `assets`, que serve para org
 
 1. Clone o repositório:
     ```bash
-   git clone https://github.com/seu-usuario/nome-do-projeto.git
+   git clone https://github.com/joecangu/previsao_tempo.git
 
 2. Navegue até o diretório do projeto:
-    cd nome-do-projeto
+    cd previsao_tempo
 
 3. Instale as dependências:
     npm install
